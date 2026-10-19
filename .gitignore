@@ -43,3 +43,7 @@ packages/desktop/src-tauri/.node-license-cache/
 packages/desktop/node_modules/
 
 _audit/
+
+# GitHub OAuth App token 缺 workflow scope，推不了 CI 定义。
+# 重新授权带上 workflow scope 后删掉这条，再 git add .github/workflows
+.github/workflows/
