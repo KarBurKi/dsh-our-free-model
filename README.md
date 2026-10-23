@@ -1,8 +1,8 @@
 # dsh-our-free-model（OFM）
 
 给 DSH（DeepSeek Harness）的**模型车道聚合插件**：装上即用，无需在插件里填 API Key，就能走匿名免费车道；
-桌面端另有 EAC 协付渠道。2.0 起把 CodeArts、CodeBuddy、WorkBuddy、LobsterAI、Qoder（含中国版）、TRAE、
-Cline、Loomy、Raccoon、MiniMax、ZCode、Gemini 十三个账号渠道接进来，提供登录、账号池、积分领取、
+桌面端另有 EAC 协付渠道。2.0 起把 LobsterAI、Qoder（含中国版）、TRAE、Cline、Loomy、Raccoon、
+MiniMax、ZCode、Gemini 十个账号渠道接进来，提供登录、账号池、积分领取、
 模型黑名单与本地 OpenAI 网关、局域网转发、数据看板与运行日志，六页毛玻璃界面统一呈现。
 
 > 个人自用 / 私有仓库。不是官方项目，不保证对他人可用。
